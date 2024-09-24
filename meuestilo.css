@@ -1,0 +1,80 @@
+
+body {
+margin: 0;
+padding: 0;
+background-color: #e6fbff;
+}
+
+.cabecalho {
+background-color: #00bcf5;
+color: #010d44;
+text-align: center;
+padding: 20px 0;
+border-radius: 0 0 10px 10px;
+border-style:groove;
+border-color: #0081fa;
+font-family:'Courier New', Courier, monospace
+}
+
+h1 {
+    margin: 0;
+    font-size: 37px;
+}
+
+h2 {
+color: #010d44;
+font-size: 25px;
+border-bottom: 5px solid #0081fa;
+padding-bottom: 5px;
+margin-bottom: 15px;
+}
+
+.geral {
+margin: 15px;
+padding: 25px;
+border-radius: 10px;
+background-color: #9de2f7;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+border-style:groove;
+border-color: #0081fa;
+
+}
+
+ul {
+list-style-type:circle;
+padding-left: 15px;
+}
+
+ul li {
+    margin-bottom: 8px;
+}
+
+a {
+    color: #082dff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.pesquisa {
+background-color: #ece6f5;
+padding: 10px;
+border-radius: 10px;
+}
+
+.pesquisa ul {
+margin: 0;
+text-align: center;
+}
+
+.pesquisa ul li {
+display: inline;
+margin-right: 15px;
+}
+
+i {
+font-size: 24px;
+color: #000000;
+}
